@@ -1,6 +1,7 @@
 # lorem-ipsum
 
-Dolor sit amet
+* Dolor sit amet
+* Gemino quis des
 
 ## Sub-module
 
