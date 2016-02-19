@@ -1,4 +1,4 @@
-# Page title
+ Page title
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 
@@ -25,5 +25,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ### Sub-title
 
-* loremi
+* loriem
 * lorem
